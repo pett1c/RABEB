@@ -1,0 +1,10 @@
+C:\Users\danya_mschqkt\source\repos\RABEB\RABEB\obj\Debug\RABEB.csproj.AssemblyReference.cache
+C:\Users\danya_mschqkt\source\repos\RABEB\RABEB\obj\Debug\RABEB.csproj.CoreCompileInputs.cache
+C:\Users\danya_mschqkt\source\repos\RABEB\RABEB\bin\Debug\RABEB.exe.config
+C:\Users\danya_mschqkt\source\repos\RABEB\RABEB\bin\Debug\RABEB.exe
+C:\Users\danya_mschqkt\source\repos\RABEB\RABEB\bin\Debug\RABEB.pdb
+C:\Users\danya_mschqkt\source\repos\RABEB\RABEB\obj\Debug\RABEB.exe
+C:\Users\danya_mschqkt\source\repos\RABEB\RABEB\obj\Debug\RABEB.pdb
+C:\Users\danya_mschqkt\source\repos\RABEB\RABEB\obj\Debug\RABEB.csproj.CopyComplete
+C:\Users\danya_mschqkt\source\repos\RABEB\RABEB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danya_mschqkt\source\repos\RABEB\RABEB\bin\Debug\Newtonsoft.Json.xml
